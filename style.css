@@ -1,0 +1,12 @@
+.content {
+    display: flex;
+    flex-flow: row;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.card {
+    margin: 0;
+    padding: 10px;
+    border: 15px;
+}
